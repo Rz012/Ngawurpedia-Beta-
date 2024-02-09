@@ -1,0 +1,23 @@
+*,html{
+  margin:0;
+  padding:0;
+  background-image:url("background.jpg");
+}
+.logo{
+  width:100px;
+  padding:0px;
+}
+.navbar-container{
+  
+}
+.navbar{
+  background-color:rgb(55,247,255) ;
+  display: inline-block;
+  justify-content: center;
+  justify-items: center;
+  padding: 20px;
+  font-weight: bold;
+}
+.background{
+  background-image:url("background.jpg");
+}
